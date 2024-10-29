@@ -1,0 +1,13 @@
+body{
+    background-color: #ADD8E6;
+}
+
+.link{
+    border: 1px solid #2db9e7 ;
+    width: 200px;
+    height: 500px;
+    text-decoration: none;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+}

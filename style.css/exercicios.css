@@ -1,0 +1,14 @@
+body{
+    background-color: #ADD8E6;
+}
+
+.botao{
+    text-decoration: none;
+    color: black;
+}
+
+.linha{
+    border: none; 
+    height: 2px; 
+    background-color: black;
+}
